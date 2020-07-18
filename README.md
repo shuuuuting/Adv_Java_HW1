@@ -1,1 +1,2 @@
-# Advanced_Java_HW1
+## Adv_Java_HW1
+### concept: enumeration
