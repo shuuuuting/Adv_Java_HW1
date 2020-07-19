@@ -1,2 +1,2 @@
 ## Advanced_Java_HW1
-### concept: enumeration
+### concept: polymorphism
